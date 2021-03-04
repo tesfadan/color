@@ -16,9 +16,9 @@
 # secrets
 /src/firestore
 
+/.firebase
 .firebaserc
 firebase.json
-
 
 
 # misc
