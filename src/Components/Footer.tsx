@@ -13,7 +13,7 @@ const Container = Styled.div`
     /* Footer components  */
     position:absolute;
     bottom: 0px;
-    padding: 24px 24px;
+    padding: 28px 32px;
     width: 100%;
     display:flex;
     justify-content: space-between;

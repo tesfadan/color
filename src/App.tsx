@@ -6,6 +6,7 @@ import "./Style/Global.scss";
 const App: React.FC = () => {
   return <>
     <Header />
+
     <Footer />
   </>
 }

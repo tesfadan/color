@@ -1,8 +1,10 @@
 import React from 'react';
 import Styled from "styled-components";
+import Search from './Search';
 const Header: React.FC<{}> = ({ }) => {
     return <Container>
         <img className="logo" src="/assets/logo.svg" alt="moderncolor.cc logo" />
+        <Search />
         <div className="options">
             <li className="hover active">HEX</li>
             <li className="hover">RGB</li>
@@ -10,24 +12,27 @@ const Header: React.FC<{}> = ({ }) => {
         </div>
     </Container>
 }
-
 export default Header;
 
 const Container = Styled.div`
     /* Header components  */
     width: 100%;
-    display: flex;
-    padding: 24px 32px;
+    display: grid;
+    padding: 32px 46px;
+    grid-template-columns: repeat(12, 1fr);
+    gap: 32px;
     align-items: center;
-    justify-content: space-between;
     .logo{
         cursor: pointer;
+        grid-column: 1/3;
     }
 
     .options{
         display: flex;
         flex-flow: row-reverse;
         align-self: right;
+        grid-column: span 3;
+        grid-column-end: end;
     }
     li{
         font-size: 14px;
@@ -38,5 +43,9 @@ const Container = Styled.div`
         &.active{
             background: #E7E6E0;
         }
+    }
+    .search{
+        grid-column: 3/11;
+        width: 100%;
     }
 `
