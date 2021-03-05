@@ -1,0 +1,47 @@
+[{
+        "id": 1,
+        "name": "Sudo Retro",
+        "colors": ["#004bc2", "#ff5f2e", "#f2b464", "#f6aab1"]
+
+    },
+    {
+        "id": 1,
+        "name": "1970",
+        "colors": ["#002957", "#FE562D", "#FE9147", "#f6aab1"]
+    },
+    {
+        "id": 1,
+        "name": "Bright Future",
+        "colors": ["#674BCA", "#0B0BF5", "#FE552D", "#f6aab1"]
+    },
+    {
+        "id": 1,
+        "name": "Dusk",
+        "colors": ["#021859", "#0433BF", "#F25CA2", "#f6aab1"]
+    },
+    {
+        "id": 1,
+        "name": "Blue-ish",
+        "colors": ["#0A1747", "#0029FA", "#8D07F6", "#f6aab1"]
+    },
+    {
+        "id": 1,
+        "name": "Verzache",
+        "colors": ["#004bc2", "#f6aab1", "#eeede7", "#f0f1f1"]
+    },
+    {
+        "id": 1,
+        "name": "Far Away",
+        "colors": ["#222222", "#e33d8c", "#f3d2af", "#f0f1f1"]
+    },
+    {
+        "id": 1,
+        "name": "Orange Monster",
+        "colors": ["#ff5f2e", "#fd894e", "#f2b464", "#ffe5b8"]
+    },
+    {
+        "id": 1,
+        "name": "Stoic",
+        "colors": ["#0A1747", "#0029FA", "#8D07F6", "#f6aab1"]
+    }
+]
