@@ -22,6 +22,7 @@ const Container = Styled.div`
     grid-template-columns: repeat(12, 1fr);
     gap: 32px;
     align-items: center;
+    border-bottom: 1px solid #ededed;
     .logo{
         cursor: pointer;
         grid-column: 1/3;
