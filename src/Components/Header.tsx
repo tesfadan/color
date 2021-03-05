@@ -2,6 +2,7 @@ import React from 'react';
 import Styled from "styled-components";
 import Search from './Search';
 const Header: React.FC<{}> = ({ }) => {
+
     return <Container>
         <img className="logo" src="/assets/logo.svg" alt="moderncolor.cc logo" />
         <Search />

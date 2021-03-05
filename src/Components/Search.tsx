@@ -19,11 +19,11 @@ const Container = styled.div`
         text-align: center;
         border:0px;
         border-radius: 6px;
-        background: #E7E6E0;
+        background: #E7E6E090;
         outline:0px;
         font-weight: 500;
         font-size:16px;
         width: 100%;
         max-width: 520px;
-        }
+    }
 `
