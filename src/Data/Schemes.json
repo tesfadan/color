@@ -1,29 +1,29 @@
-[{
-        "colors": ["#180C24", "#2B159E", "#D8DCE8", "#FFFFFF"]
-
-    },
-    {
-        "colors": ["#000002", "#4C85F9", "#DCE7FB", "#FFFFFF"]
-    },
-    {
-        "colors": ["#6083FF", "#C49FD2", "#D2E1F6", "#E5EEFD"]
-    },
-    {
-        "colors": ["#1B1C1E", "#FFB200", "#EDEDED", "#FDFDFD"]
-    },
-    {
-        "colors": ["#0A2455", "#2A76BF", "#FFCB15", "#F2FAF7"]
-    },
-    {
-        "colors": ["#02002E", "#5D52F0", "#F5D445", "#FFE1B5"]
-    },
-    {
-        "colors": ["#181D3D", "#F75465", "#CDCFE8", "#EEEFF6"]
-    },
-    {
-        "colors": ["#330A58", "#F73F71", "#57CCF7", "#F7F6FE"]
-    },
-    {
-        "colors": ["#1E2843", "#3A445D", "#F78C94", "#F9FFFF"]
-    }
+[
+{
+"colors": ["#27053E", "#A63F7B", "#E6D4CF", "#FFFFFF"]
+},
+{
+"colors": ["#371642", "#FDBE33", "#C4D8E2", "#FFFFFF"]
+},
+{
+"colors": ["#8A2D56", "#F9B183", "#F8D8D2", "#FFFFFF"]
+},
+{
+"colors": ["#0E1F3C", "#FF9D00", "#D9D9D9", "#FFFFFF"]
+},
+{
+"colors": ["#1C365D", "#5DB5FF", "#FFE5B7", "#F3F9FF"]
+},
+{
+"colors": ["#270435", "#F97172", "#FFD8D8", "#FFFFFF"]
+},
+{
+"colors": ["#1F1F1F", "#F75858", "#E2E2E2", "#FFFFFF"]
+},
+{
+"colors": ["#4D0760", "#F7576C", "#7BC4CC", "#F7F7F7"]
+},
+{
+"colors": ["#332445", "#9F5D70", "#F7A8A8", "#FFFFFF"]
+}
 ]
